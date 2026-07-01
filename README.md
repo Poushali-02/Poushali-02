@@ -5,22 +5,21 @@
 <h3 align="center">A passionate AI and Backend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/@poushalib0201" target="blank"><img src="https://img.shields.io/twitter/follow/@poushalib0201?logo=twitter&style=for-the-badge" alt="poushalib0201" /></a> </p>
+-  🏫 I'm a SDE Intern at [Stepout](https://www.stepout.ai/en)
 
 - 🔭 I’m currently working on [Paisa Flow](https://paisa-flow.vercel.app/)
 
-- 🌱 I’m currently learning **Backend Development with Python**
+- 🌱 I’m learning **Backend Development with Python**
 
 - 👯 I’m looking to collaborate on [Canner](https://github.com/CannerAI/CannerAI)
 
 - 👨‍💻 All of my projects are available at [https://poushali.me](https://poushali.me)
 
-- 📝 I regularly write articles on [https://medium.com/@poushali02](https://medium.com/@poushali02)
-
 - 💬 Ask me about **react, fastapi, scikit-learn**
 
 - 📫 How to reach me **poushalibhattacharyya02@gmail.com**
 
-- ⚡ Fun fact **I do vibe coding**
+- ⚡ Fun fact **I vibe while vibe coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
