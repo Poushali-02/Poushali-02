@@ -5,6 +5,7 @@
 <h3 align="center">A passionate AI and Backend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/@poushalib0201" target="blank"><img src="https://img.shields.io/twitter/follow/@poushalib0201?logo=twitter&style=for-the-badge" alt="poushalib0201" /></a> </p>
+
 -  🏫 I'm a SDE Intern at [Stepout](https://www.stepout.ai/en)
 
 - 🔭 I’m currently working on [Paisa Flow](https://paisa-flow.vercel.app/)
