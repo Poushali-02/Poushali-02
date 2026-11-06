@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/@poushalib0201" target="blank"><img src="https://img.shields.io/twitter/follow/@poushalib0201?logo=twitter&style=for-the-badge" alt="poushalib0201" /></a> </p>
 
--  🏫 I'm a SDE Intern at [Stepout](https://www.stepout.ai/en)
+-  🏫 Ex SDE Intern at [Stepout](https://www.stepout.ai/en)
 
-- 🔭 I’m currently working on [Paisa Flow](https://paisa-flow.vercel.app/)
+- 🔭 I’m currently working on [Seedreach](https://github.com/Poushali-02/seedreach)
 
-- 🌱 I’m learning **Backend Development with Python**
-
-- 👯 I’m looking to collaborate on [Canner](https://github.com/CannerAI/CannerAI)
+- 🌱 I’m learning **AI & Backend Development with Python**
 
 - 👨‍💻 All of my projects are available at [https://poushali.me](https://poushali.me)
 
