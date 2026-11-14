@@ -63,7 +63,7 @@
 
 
 ### Spotify
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zsw3r5svh5u3xjk7waoeurov3y&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zsw3r5svh5u3xjk7waoeurov3y&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zsw3r5svh5u3xjk7waoeurov3y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zsw3r5svh5u3xjk7waoeurov3y&redirect=true)
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
